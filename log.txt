@@ -1,0 +1,3 @@
+PS C:\Users\Tatiana\Desktop\testowy repozyt> git log --pretty=oneline
+3d997eca3a5ddaaa17bf0193745948e2bb5c9662 (HEAD -> main, origin/main, origin/HEAD) Initial commit
+PS C:\Users\Tatiana\Desktop\testowy repozyt>
